@@ -1,0 +1,2 @@
+This (gml2jsoncsv.py) is an extension to jschaub30/gml2json.py @ https://gist.github.com/jschaub30/54054f81508003d01d5d.
+This python code converts gml files in the same directory into JSON files and CSVs.
